@@ -1,12 +1,16 @@
 Star Wars Spoiler Generator
 =================
+![The Bowler Strikes Back](https://i.imgur.com/zZShfar.png)
+# [Live Demo](https://starwars-spoiler-generator.glitch.me/)
 
 This is an homage to [an XKCD that my team at work liked](https://xkcd.com/2243/)
 
 *(With credits to Randall Munroe, and apologies to George Lucas)*
 
 
-# [Live Demo](https://starwars-spoiler-generator.glitch.me/)
+
+
+
 
 # What it Does
 
