@@ -22,3 +22,9 @@ After generating the spoiler, it displays it in a very Star-Warsy fashion, using
 - It doesn't work well on mobile yet (or maybe ever), though this could be achieved by a motivated person with some CSS Media queries.
 - The titles aren't randomly generated, but selected from a batch I created on my own. In the future, a Markov Chain could be a fun way to do this. Or GPT-2...
 - The story is "randomly generated"... but still it's actually only generated via a very simple DAG structure given in the XKCD. A motivated person could use a [neural network of the GPT-2/Transformer variety](https://www.gwern.net/GPT-2) to do some neat stuff on this front.
+
+
+
+-----------------
+
+This project (like most of my simple web projects these days) was built on glitch.com. You should check it out.
